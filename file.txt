@@ -2,6 +2,10 @@
  git
 here have to add new data
   updated
+<<<<<<< HEAD
  this is the ngit ew text here 
 
      vip data
+=======
+ this is the ngit ew text here 
+>>>>>>> ad0ac5909fe7a16076393f7b33061402efb841a2
