@@ -1,5 +1,9 @@
  demo file
  git
+<<<<<<< HEAD
 here have to add new data
   updated
  this is the new text here 
+=======
+ 
+>>>>>>> e1664c148340602fd53e33dfb9b47db827bc6327
