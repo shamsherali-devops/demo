@@ -1,5 +1,3 @@
  demo file
  git
-here have to add new data
-  updated
- this is the new text here 
+ 
